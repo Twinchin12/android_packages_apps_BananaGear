@@ -162,6 +162,8 @@
     <!-- Quick Settings brightness icon -->
     <string name="qs_show_auto_brightness_title">Auto brightness icon</string>
     <string name="qs_show_auto_brightness_summary">Show toggle for adaptive brightness near the slider</string>
+    <string name="qs_brightness_haptic_feedback_title">Haptic feedback</string>
+    <string name="qs_brightness_haptic_feedback_summary">Haptic feedback when adjusting brightness (Requires touch feedback to be enabled)</string>
 
     <!-- Unlimited google photos storage -->
     <string name="use_photos_spoof_title">Unlimited Photos storage</string>
@@ -954,4 +956,15 @@
     <!-- Doze on charge -->
     <string name="doze_on_charge_title">Always on when charging</string>
     <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
+    
+    <!-- Scroll fling haptic feedback-->
+    <string name="scroll_fling_haptic_feedback_title">Vibrate on scroll flings</string>
+    <string name="scroll_fling_haptic_feedback_summary">Vibrate on reaching edges when scrolling with fling gesture</string>
+
+    <!-- Volume panel haptic feedback-->
+    <string name="volume_panel_haptic_feedback_title">Vibrate on changing volume</string>
+
+    <!-- Misc vibration -->
+    <string name="misc_vibration_category">Miscellaneous</string>
+
 </resources>
