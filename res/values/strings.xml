@@ -669,6 +669,10 @@
     <string name="reticker_summary">Replace heads-up notification with slim and less invasive version of redesigned ticker</string>
     <string name="reticker_colored_title">Use app colored background</string>
     <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
+    
+    <!-- Scroll fling haptic feedback-->
+    <string name="scroll_fling_haptic_feedback_title">Vibrate on scroll flings</string>
+    <string name="scroll_fling_haptic_feedback_summary">Vibrate on reaching edges when scrolling with fling gesture</string>
 
     <!-- Material dismiss all button for notifications -->
     <string name="notification_material_dismiss_title">Clear all notification button</string>
@@ -978,4 +982,11 @@
     <string name="brightness_slider_style_default">Default</string>
     <string name="brightness_slider_style_filled">Filled</string>
     <string name="brightness_slider_style_thin">Thin</string>
+    
+    <!-- Volume panel haptic feedback-->
+    <string name="volume_panel_haptic_feedback_title">Vibrate on changing volume</string>
+    
+    <!-- Misc vibration -->
+    <string name="misc_vibration_category">Miscellaneous</string>
+    
 </resources>
